@@ -51,4 +51,4 @@ O hash é como se fosse um identificador único gerado através de um algoritmo 
  - webbrowser: fornece uma interface de alto nível para permitir a exibição de documentos web aos usuários
  - tkinter: fornece interface padrão do Python para o kit de ferramentas gráficas Tk. 
 
-*Fonte: Anotações aula prof Bruno Dias.*
+*Fonte: Anotações da aula do [professor Bruno Dias](https://www.linkedin.com/in/brunodecamposdias/).*
